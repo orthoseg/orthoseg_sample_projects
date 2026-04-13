@@ -4,4 +4,4 @@
 
 ### Improvements
 
-- First upload, from orthoseg 0.7 (#1)
+- First upload, from orthoseg 0.7.1 (#1)
