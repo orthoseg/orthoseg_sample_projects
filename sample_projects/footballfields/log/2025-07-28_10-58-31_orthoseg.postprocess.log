@@ -1,0 +1,6 @@
+2025-07-28 10:58:31,483|INFO|root|Start postprocess for footballfields_BEFL-2019_test on UNEXISTING
+2025-07-28 10:58:31,502|ERROR|root|ERROR in postprocess for footballfields_BEFL-2019_test on UNEXISTING
+Traceback (most recent call last):
+  File "c:\Users\PIEROG\Projects\github\orthoseg\orthoseg\postprocess.py", line 96, in postprocess
+    raise RuntimeError(
+RuntimeError: No best model found in C:\Users\PIEROG\Projects\github\orthoseg\sample_projects\footballfields\models

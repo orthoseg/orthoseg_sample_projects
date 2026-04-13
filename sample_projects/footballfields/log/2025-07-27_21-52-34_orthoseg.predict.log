@@ -1,0 +1,6 @@
+2025-07-27 21:52:34,185|INFO|root|Start predict for config footballfields_BEFL-2019_test
+2025-07-27 21:52:34,189|ERROR|root|ERROR in predict for footballfields_BEFL-2019_test on UNEXISTING
+Traceback (most recent call last):
+  File "c:\Users\PIEROG\Projects\github\orthoseg\orthoseg\predict.py", line 87, in predict
+    raise ValueError(f"{image_layer=} is not configured in image_layers")
+ValueError: image_layer='UNEXISTING' is not configured in image_layers
